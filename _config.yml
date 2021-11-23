@@ -28,7 +28,7 @@ twitter_username: nenad_dev
 github_username:  nenad
 
 # Build settings
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
