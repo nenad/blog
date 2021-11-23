@@ -10,7 +10,7 @@ docker run --rm -e JEKYLL_UID=$UID -e JEKYLL_GID=$GID -it -p 4000:4000 --volume 
 
 ## TODO
 
-- [ ] Set up GitHub pages for this site
-- [ ] Set up blog.nenad.dev to point to this published blog
+- [x] Set up GitHub pages for this site
+- [x] Set up blog.nenad.dev to point to this published blog
 - [ ] Have a dark theme
 - [ ] Make content!
